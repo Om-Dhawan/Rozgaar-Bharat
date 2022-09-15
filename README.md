@@ -3,7 +3,7 @@
 # Rozgaar Bharat
 ### Idea - One to One employment in Unskilled Sector
 
-## AcknowledgementsTech Stack used is
+## Tech Stack used is
 
  - [HTML5]
  - [CSS3]
