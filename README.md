@@ -40,7 +40,7 @@ We aim at building a one to one system where one person will be able to accompli
 
 ## Website Link
 
-- https://omdvn.github.io/Rozgaar-Bharat/
+- https://om-dhawan.github.io/Rozgaar-Bharat/
 
 ## Presentation Link
 
